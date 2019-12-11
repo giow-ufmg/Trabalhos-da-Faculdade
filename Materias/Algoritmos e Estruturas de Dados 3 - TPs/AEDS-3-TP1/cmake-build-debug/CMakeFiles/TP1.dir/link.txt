@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TP1.dir/main.c.o CMakeFiles/TP1.dir/mem.c.o CMakeFiles/TP1.dir/sort.c.o CMakeFiles/TP1.dir/heap.c.o  -o TP1 

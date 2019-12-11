@@ -1,0 +1,83 @@
+"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Giovanni\Desktop\Tp2
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:495 (file):
+  file STRINGS file
+  "C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.exe"
+  cannot be read.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:501 (list):
+  list sub-command REMOVE_DUPLICATES requires list to be present.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:567 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:569 (string):
+  string begin index: 1 is out of range 0 - 0
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:577 (math):
+  math cannot parse the expression: " * 16 + ": syntax error, unexpected
+  exp_TIMES, expecting exp_PLUS or exp_MINUS or exp_OPENPARENT or exp_NUMBER
+  (2)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:579 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:619 (file):
+  file failed to open for reading (Invalid argument):
+
+    C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.exe
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Program Files/JetBrains/CLion 2018.1.2/bin/cmake/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake:112 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Giovanni/Desktop/Tp2/cmake-build-debug/CMakeFiles/CMakeError.log".
+
+CMake Error:
+  --------------------------------------------------------------------------------------------
+  Antivirus software might have incorrectly identified files generated by CMake as malicious.
+  To workaround this problem, please exclude the project dir and 'C:\MinGW' from the scanning.
+  --------------------------------------------------------------------------------------------

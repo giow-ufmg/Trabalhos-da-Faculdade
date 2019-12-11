@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Giovanni/CLionProjects/TP3/Grafo.c
+Grafo.h
+C:/Users/Giovanni/CLionProjects/TP3/Grafo.h
+
+C:/Users/Giovanni/CLionProjects/TP3/Grafo.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Giovanni/CLionProjects/TP3/main.c
+stdio.h
+-
+stdlib.h
+-
+Grafo.h
+C:/Users/Giovanni/CLionProjects/TP3/Grafo.h
+
